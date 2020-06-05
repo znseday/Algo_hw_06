@@ -1,0 +1,26 @@
+Task - 0. CountingSort:
+ Test#  Status       Time, s
+     4:
+          true      0.000641
+Test passed: true
+
+     5:
+          true      0.001244
+Test passed: true
+
+     6:
+          true      0.015770
+Test passed: true
+
+     7:
+          true      0.179181
+Test passed: true
+
+     8:
+          true      2.347589
+Test passed: true
+
+     9:
+          true     29.470280
+Test passed: true
+

@@ -1,0 +1,27 @@
+Task - 0. std::sort:
+ Test#  Status       Time, s
+     4:
+          true      0.000505
+Test passed: true
+
+     5:
+          true      0.006393
+Test passed: true
+
+     6:
+          true      0.064026
+Test passed: true
+
+     7:
+          true      0.694568
+Test passed: true
+
+     8:
+          true      6.518479
+Test passed: true
+
+     9:
+          true     68.018170
+Test passed: true
+
+
